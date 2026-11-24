@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subusinessman9096-svg.github.io/matka420in-docs/sitemap.xml
